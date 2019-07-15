@@ -1,0 +1,6 @@
+France	300000
+Germany	50000
+france	344
+Japan	566666
+denmark	2000
+n	3333
